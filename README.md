@@ -27,14 +27,11 @@ This tool analyzes blood report PDFs, extracts the text, and provides constructi
 3. **Install Dependencies:**
    ```
    poetry install --no-root
+   poetry shell
    ```
 4. **Running the project**
    ```
    python main.py
-   ```
-   or
-   ```
-   python run
    ```
    
 ## Key Components 
