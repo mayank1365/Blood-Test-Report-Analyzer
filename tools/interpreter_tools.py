@@ -3,7 +3,7 @@ from langchain.tools import tool
 
 
 class InterpreterTools:
-    
+
     @tool("Convert PDF to text")
     def pdf_to_text_tool(file_path: str) -> str:
         """
@@ -23,3 +23,4 @@ class InterpreterTools:
             return text
         except Exception as e:
             return f"An error occurred while reading the PDF: {str(e)}"
+        
