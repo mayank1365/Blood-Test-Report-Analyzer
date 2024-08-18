@@ -19,7 +19,7 @@ This tool analyzes blood report PDFs, extracts the text, and provides constructi
   
 
 ## Setup and Installation
-1. ** Seting up the project on local system**
+1. **Seting up the project on local system**
    ```
     git clone https://github.com/mayank1365/blood-test-report-feedback.git
     cd blood-test-report-feedback
