@@ -68,3 +68,7 @@ The health improvement plan based on the research findings are as follows:
 5. **Hormonal Balance**: Hormonal balance can be achieved by consuming adequate protein at each meal, regular exercise, maintaining a healthy weight, and taking care of gut health through a balanced diet. Consuming healthy fats, anti-inflammatory foods, cruciferous vegetables, high-quality protein, and prebiotics can also aid in hormonal balance. More information can be found [here](https://www.healthline.com/nutrition/balance-hormones).
 
 Remember, it's always best to consult a healthcare provider before making any major changes to your diet or lifestyle. These suggestions are based on general research and individual needs may vary.
+
+
+## Insights on my approach 
+Please refer to the [APPROACH.md](APPROACH.md) file.
