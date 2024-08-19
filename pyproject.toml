@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "trip-planner"
 version = "0.1.0"
-description = "Simple AI Trip Planner"
+description = "Simple AI Health Mangager"
 authors = ["Mayank Gupta"]
 
 [tool.poetry.dependencies]
