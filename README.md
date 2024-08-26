@@ -1,4 +1,4 @@
-# Blood Test Report Feedback
+# Blood Test Report Analyzer
 
 This tool analyzes blood report PDFs, extracts the text, and provides constructive feedback to improve the user's health based on the analyzed data. It leverages various tools and agents to process the report and offer actionable insights.
 
@@ -22,7 +22,7 @@ This tool analyzes blood report PDFs, extracts the text, and provides constructi
 1. **Seting up the project on local system**
    ```
     git clone https://github.com/mayank1365/blood-test-report-feedback.git
-    cd blood-test-report-feedback
+    cd Blood-Test-Report-Analyzer
    ```   
 3. **Install Dependencies:**
    ```
